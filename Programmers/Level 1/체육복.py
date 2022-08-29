@@ -7,7 +7,7 @@ def solution(n, lost, reserve):
     for i in reserve:
         u[i] += 1
      
-    # 체육복이 없는 학생 기준으로 앞 -> 뒤 로 빌림
+    # 체육복이 없는 학생 기준으로 앞사람 -> 뒷사람 순으로 빌림
     for i in range(1, n + 1):
         if u[i] == 0 and u[i - 1] == 2:
             u[i - 1:i + 1] = [1, 1]
