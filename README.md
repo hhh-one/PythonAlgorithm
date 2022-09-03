@@ -11,6 +11,7 @@
  + 📁Level 1
     - [(Hash) 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
     - [(Hash) 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+    - [(Stack/Queue) 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
     - [(Sort) K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
     - [(Greedy) 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 
