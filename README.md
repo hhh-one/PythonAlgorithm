@@ -20,6 +20,7 @@
     - [(Hash) 위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
     - [(Sort) 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
     - [(Sort) H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+    - [(Greedy) 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
  
  + 📁Level 3
     - [(Hash) 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
