@@ -14,6 +14,8 @@
     - [(Stack/Queue) 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
     - [(Sort) K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
     - [(Greedy) 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+    - [(완전탐색) 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+    - [(완전탐색) 모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 
  + 📁Level 2
     - [(Hash) 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
