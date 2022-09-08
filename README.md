@@ -22,7 +22,6 @@
     - [(Hash) 위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
     - [(Sort) 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
     - [(Sort) H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
-    - [(Greedy) 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
     - [(Greedy) 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
     - [(Greedy) 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
     - [(완전탐색) 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
