@@ -25,6 +25,7 @@
     - [(Greedy) 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
     - [(Greedy) 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
     - [(Greedy) 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
+    - [(완전탐색) 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
  
  + 📁Level 3
     - [(Hash) 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
